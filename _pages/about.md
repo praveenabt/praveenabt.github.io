@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in computer science at IIT-Hyderabad. I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at Princeton University, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/).
+I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.in/) at [IIT-Hyderabad](https://iith.ac.in/). I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at Princeton University, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/).
 
 My research interests are at the intersection of **networking, security, and machine learning**. My current focus is on designing networks to make network management easier using exciting emerging technologies such as Software-Defined Networking (SDN) and P4-based programmable data planes. 
 
