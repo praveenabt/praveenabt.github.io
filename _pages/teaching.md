@@ -3,15 +3,14 @@ layout: archive
 title: ""
 permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /teaching
+
 ---
 
 {% include base_path %}
 
 Jan-April 2021
 ======
-* **CS6220: Topics in Networks (3 Credits)**
+* **[CS6220: Topics in Networks](2021-TN) (3 Credits)**
 	* The objective of the course is to introduce you to recent advances in the area of enterprise/cloud/WAN networks. In this course, (1) you will read and present classic and recent papers covering a wide range of topics in networks: data center networks, network measurement, network verification, network security, and network traffic management; and (2) you will design and develop network functions using emerging networking tools and technologies like programmable switches. Some functions include Stateful firewalls, DDoS detection, load balancers, and Network monitoring using probabilistic data structures. 
 	* Keywords: Software-Defined Networking (SDN), NFV, Network Monitoring, Traffic Engineering, Network Verification, Programmable Dataplanes.
 
