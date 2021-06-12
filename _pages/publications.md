@@ -7,6 +7,9 @@ author_profile: true
 
 <div style="width: 1200px;">
 <ul>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">SpiderMon: Harnessing Wait-For Relations for Performance
+Debugging with Programmable Switches</span><br />Weitao Wang, Xinyu Wu, <strong>Praveen Tammana</strong>, Ang Chen, T.S. Eugene Ng<br />USENIX NSDI, 2022 (to appear) </li>
+
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Adaptive Weighted Traffic Splitting in Programmable Data Planes</span><br />Kuo-Feng Hsu, <strong>Praveen Tammana</strong>, Ryan Beckett, Ang Chen, Jennifer Rexford, David Walker<br />ACM SOSR, Mar 2020 [<a title="DASH-Final" href="dash-final.pdf">pdf</a>] [<a href="https://www.youtube.com/watch?v=JJ0aik8HCME">talk</a>] [<a href="/talks/dash-sosr20-kuofeng.pptx">slides</a>]</li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Tracking P4 Program Execution in the Data Plane <em><strong><span style="color: #ff6600;">(Best paper award)</span></strong></em></span><br />Suriya Kodeswaran, Mina Tahmasbi Arashloo, <strong>Praveen Tammana</strong>, Jennifer Rexford<br />ACM SOSR, Mar 2020 [<a title="track-p4" href="track-p4.pdf">pdf</a>] [<a href="https://www.youtube.com/watch?v=RbQFWIYO2cw">talk</a>]</li>
