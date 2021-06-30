@@ -7,6 +7,8 @@ author_profile: true
 
 <div style="width: 1200px;">
 <ul>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Anomaly Detection in Data Plane Systems using Packet Execution Paths</span><br />Archit Sanghi, Krishna P. Kadiyala, <strong>Praveen Tammana</strong>, Saurabh Joshi<br />ACM SIGCOMM SPIN, 2021 (to appear) </li>
+
 <li style="margin-bottom: 10px;"><span style="color: #008080;">SpiderMon: Harnessing Wait-For Relations for Performance
 Debugging with Programmable Switches</span><br />Weitao Wang, Xinyu Wu, <strong>Praveen Tammana</strong>, Ang Chen, T.S. Eugene Ng<br />USENIX NSDI, 2022 (to appear) </li>
 
