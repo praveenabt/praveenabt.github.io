@@ -10,11 +10,13 @@ redirect_from:
 
 I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.in/) at [IIT-Hyderabad](https://iith.ac.in/). I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at [Princeton University](https://www.princeton.edu/), USA, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/).
 
-I work at the intersection of **Systems, Networks, Security, and Machine Learning**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking (SDN) and P4-based programmable data planes. 
+I work at the intersection of **Systems, Networks, Security, and Machine Learning**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking (SDN) and P4-based programmable data planes.
 
 ## Publications
 <div style="width: 1200px;">
 <ul>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">DBVal: Validating P4 Data Plane Runtime Behavior</span><br />K Shiv Kumar, Ranjitha K, PS Prashanth, Mina Tahmasbi Arashloo, Venkanna U, Praveen Tammana<br /><a href="https://conferences.sigcomm.org/sosr/2021/"> ACM SIGCOMM SOSR </a>, Sep 2021 [<a title="DBVal" href="DBVal_final.pdf">pdf</a>] </li>
+
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Anomaly Detection in Data Plane Systems using Packet Execution Paths</span><br />Archit Sanghi, Krishna P. Kadiyala, <strong>Praveen Tammana</strong>, Saurabh Joshi<br/> <a href="https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html"> ACM SIGCOMM SPIN </a>, Aug 2021, [<a title="p4anamoly" href="publications/P4anamoly-spin-final.pdf">pdf</a>] </li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">SpiderMon: Harnessing Wait-For Relations for Performance
@@ -23,18 +25,18 @@ Debugging with Programmable Switches</span><br />Weitao Wang, Xinyu Wu, <strong>
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Adaptive Weighted Traffic Splitting in Programmable Data Planes</span><br />Kuo-Feng Hsu, <strong>Praveen Tammana</strong>, Ryan Beckett, Ang Chen, Jennifer Rexford, David Walker<br />ACM SOSR, Mar 2020 [<a title="DASH-Final" href="publications/dash-final.pdf">pdf</a>] [<a href="https://www.youtube.com/watch?v=JJ0aik8HCME">talk</a>] [<a href="/talks/dash-sosr20-kuofeng.pptx">slides</a>]</li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Tracking P4 Program Execution in the Data Plane <em><strong><span style="color: #ff6600;">(Best paper award)</span></strong></em></span><br />Suriya Kodeswaran, Mina Tahmasbi Arashloo, <strong>Praveen Tammana</strong>, Jennifer Rexford<br />ACM SOSR, Mar 2020 [<a title="track-p4" href="publications/track-p4.pdf">pdf</a>] [<a href="https://www.youtube.com/watch?v=RbQFWIYO2cw">talk</a>]</li>
-
-<li style="margin-bottom: 10px;"><span style="color: #008080;"> Grasp the Root Causes in the Dataplane: Diagnosing Latency Problems with SpiderMon</span><br />Weitao Wang, <strong>Praveen Tammana</strong>, Ang Chen, T.S.Eugene Ng<br />ACM SOSR, Mar 2020 [<a title="spidermon" href="publications/spidermon.pdf">pdf</a>][<a href="https://www.youtube.com/watch?v=SYbr8W_JG6A">talk</a>]</li>
 </ul>
 </div>
 [Full list here](/publications)
 
 ## Current students
-* Ranjitha P, PhD
+* [Ranjitha](https://www.linkedin.com/in/ranjitha-k-9b802823/), PhD
 * [Shiv Kumar](https://www.linkedin.com/in/shivkumar301), PhD
-* Ramya, MTech
-* Shubham Lahoti, MTech
-* Divyansh, MDS
+* [Harish](https://www.linkedin.com/in/harishsa85/), PhD
+* [Divya](https://www.linkedin.com/in/divyapathak24/), MTech (RA)
+* [Sankalp](https://github.com/sankalpmittal1911-BitSian), MTech (RA)
+* [Ramya](https://www.linkedin.com/in/ramya-b-y-2b3721182), MTech (TA)
+* [Shubham Lahoti](https://www.linkedin.com/in/shubham-l-a0b1b9105/), MTech (TA)
 
 [Full list here](/students)
 
