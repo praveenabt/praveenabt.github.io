@@ -10,17 +10,22 @@ redirect_from:
 
 I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.in/) at [IIT-Hyderabad](https://iith.ac.in/). I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at [Princeton University](https://www.princeton.edu/), USA, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/).
 
-I work at the intersection of **Systems, Networks, Security, and Machine Learning**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking (SDN) and P4-based programmable data planes.
+I work at the intersection of **Systems, Networks, and Security**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking (SDN) and P4-based programmable data planes.
+
+I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. Write to me along with (1) your CV and (2) mention why you are interested in the networked systems area.  
 
 ## Publications
 <div style="width: 1200px;">
 <ul>
-<li style="margin-bottom: 10px;"><span style="color: #008080;">DBVal: Validating P4 Data Plane Runtime Behavior</span><br />K Shiv Kumar, Ranjitha K, PS Prashanth, Mina Tahmasbi Arashloo, Venkanna U, Praveen Tammana<br /><a href="https://conferences.sigcomm.org/sosr/2021/"> ACM SIGCOMM SOSR </a>, Sep 2021 [<a title="DBVal" href="publications/DBVal_final.pdf">pdf</a>] </li>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">Anomaly Detection in Data Plane Systems using Packet Execution Paths</span><br />Archit Sanghi, Krishna P. Kadiyala, <strong>Praveen Tammana</strong>, Saurabh Joshi<br/> <a href="https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html"> ACM SIGCOMM SPIN </a>, Aug 2021, [<a title="p4anamoly" href="publications/P4anamoly-spin-final.pdf">pdf</a>] </li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Accelerating PUF-based UAV Authentication Protocols Using Programmable Switch</span><br />Ranjitha K, Divya Pathak, Tejasvi Alladi, Antony Franklin, Praveen Tammana<br /><a href="https://www.comsnets.org/poster_session.html"> IEEE/ACM COMSNETS </a>, Jan 2022 [<a title="P4-PUF" href="publications/puf-uav-p4.pdf">pdf</a>] [<a href="https://drive.google.com/file/d/1sx8-wYhfb_Iz6WiKNTOf62yUGJtqPYUq/view?usp=sharing">talk</a>]  </li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">SpiderMon: Harnessing Wait-For Relations for Performance
-Debugging with Programmable Switches</span><br />Weitao Wang, Xinyu Wu, <strong>Praveen Tammana</strong>, Ang Chen, T.S. Eugene Ng<br />USENIX NSDI, 2022 (to appear) </li>
+Debugging with Programmable Switches</span><br />Weitao Wang, Xinyu Wu, <strong>Praveen Tammana</strong>, Ang Chen, T.S. Eugene Ng<br /> <a href="https://www.usenix.org/conference/nsdi22/technical-sessions"> USENIX NSDI </a>, Mar 2022 [<a title="SpiderMon" href="https://www.usenix.org/conference/nsdi22/presentation/wang">pdf</a>] </li> 
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">DBVal: Validating P4 Data Plane Runtime Behavior</span><br />K Shiv Kumar, Ranjitha K, PS Prashanth, Mina Tahmasbi Arashloo, Venkanna U, Praveen Tammana<br /><a href="https://conferences.sigcomm.org/sosr/2021/"> ACM SIGCOMM SOSR </a>, Sep 2021 [<a title="DBVal" href="publications/DBVal_final.pdf">pdf</a>] [<a href="https://drive.google.com/file/d/1zqMKhv7oT8U0G_4IHJjGhIb3n_rzhiNM/view?usp=sharing">talk</a>] [<a href="https://drive.google.com/file/d/1IhxyZZEtgqQDwPugxbUfBIIB9u5hDqKb/view?usp=sharing">slides</a>]  </li>
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Anomaly Detection in Data Plane Systems using Packet Execution Paths</span><br />Archit Sanghi, Krishna P. Kadiyala, <strong>Praveen Tammana</strong>, Saurabh Joshi<br/> <a href="https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html"> ACM SIGCOMM SPIN </a>, Aug 2021 [<a title="p4anamoly" href="publications/P4anamoly-spin-final.pdf">pdf</a>] [<a href="/talks/SPIN'21-p4anamoly.pptx">slides</a>] </li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Adaptive Weighted Traffic Splitting in Programmable Data Planes</span><br />Kuo-Feng Hsu, <strong>Praveen Tammana</strong>, Ryan Beckett, Ang Chen, Jennifer Rexford, David Walker<br />ACM SOSR, Mar 2020 [<a title="DASH-Final" href="publications/dash-final.pdf">pdf</a>] [<a href="https://www.youtube.com/watch?v=JJ0aik8HCME">talk</a>] [<a href="/talks/dash-sosr20-kuofeng.pptx">slides</a>]</li>
 
@@ -30,9 +35,11 @@ Debugging with Programmable Switches</span><br />Weitao Wang, Xinyu Wu, <strong>
 [Full list here](/publications)
 
 ## Current students
+* [Praveen Chandrahas](), PhD
 * [Ranjitha](https://www.linkedin.com/in/ranjitha-k-9b802823/), PhD
 * [Shiv Kumar](https://www.linkedin.com/in/shivkumar301), PhD
 * [Harish](https://www.linkedin.com/in/harishsa85/), PhD
+* [Sanyan Dey](), Mtech (RA), jointly with Dr. Ramakrishna
 * [Divya](https://www.linkedin.com/in/divyapathak24/), MTech (RA)
 * [Sankalp](https://github.com/sankalpmittal1911-BitSian), MTech (RA)
 * [Ramya](https://www.linkedin.com/in/ramya-b-y-2b3721182), MTech (TA)
