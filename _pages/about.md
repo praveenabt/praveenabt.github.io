@@ -12,9 +12,9 @@ I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.
 
 I work at the intersection of **Systems, Networks, and Security**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking (SDN) and P4-based programmable data planes.
 
-I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. Write to me along with (1) your CV and (2) mention why you are interested in the networked systems area.
+I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. If you are interested, please apply by filling [this](https://forms.gle/Cq2EBi48TTe27yKWA) form. We will screen the applications and get back to you.
 
-Email ID: praveent at cse dot iith dot ac dot in  
+Contact email id: praveent at cse dot iith dot ac dot in  
 
 ## Publications
 <div style="width: 1200px;">
