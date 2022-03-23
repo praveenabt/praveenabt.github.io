@@ -10,12 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Current students
-* Ranjitha P, PhD
+* Ranjitha, PhD
 * Shiv Kumar, PhD
-* Ramya, MTech
-* Shubham Lahoti, MTech
-* Divyansh, MDS
+* Harish, PhD
+* Praveen Chandrahas, PhD
+* Divya, MTech RA
+* Sayan Dey, MTech RA (Jointly with Dr. Rama Krishna)
+* Ramya, MTech TA
+* Shubham Lahoti, MTech TA
+
 
 ## Past students
 * Archit Sanghi, MTech (jointly with Dr.Saurabh Joshi, now with Oracle Ltd.)
+* Divyansh, MDS
 

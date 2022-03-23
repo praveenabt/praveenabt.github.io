@@ -12,12 +12,13 @@ I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.
 
 I work at the intersection of **Systems, Networks, and Security**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking (SDN) and P4-based programmable data planes.
 
-I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. Write to me along with (1) your CV and (2) mention why you are interested in the networked systems area.  
+I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. Write to me along with (1) your CV and (2) mention why you are interested in the networked systems area.
+
+Email ID: praveent at cse dot iith dot ac dot in  
 
 ## Publications
 <div style="width: 1200px;">
 <ul>
-
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Accelerating PUF-based UAV Authentication Protocols Using Programmable Switch</span><br />Ranjitha K, Divya Pathak, Tejasvi Alladi, Antony Franklin, Praveen Tammana<br /><a href="https://www.comsnets.org/poster_session.html"> IEEE/ACM COMSNETS </a>, Jan 2022 [<a title="P4-PUF" href="publications/puf-uav-p4.pdf">pdf</a>] [<a href="https://drive.google.com/file/d/1sx8-wYhfb_Iz6WiKNTOf62yUGJtqPYUq/view?usp=sharing">talk</a>]  </li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">SpiderMon: Harnessing Wait-For Relations for Performance
@@ -33,6 +34,15 @@ Debugging with Programmable Switches</span><br />Weitao Wang, Xinyu Wu, <strong>
 </ul>
 </div>
 [Full list here](/publications)
+
+
+## Technical Program Committee
+* 2022: [IEEE ICNP](https://icnp22.cs.ucr.edu/), [APNet](https://conferences.sigcomm.org/events/apnet2022/index.html)
+* 2021: [ACM/IEEE ANCS](https://ancsconf.org/)
+
+## Organizing Committee
+* 2022: [ACM SIGMETRICS PerfNA Workshop](https://perfna2022.cse.iith.ac.in/)
+* 2021: [IEEE ANTS Tutorials](https://ants2021.ieee-comsoc-ants.org/authors/tutorials/)
 
 ## Current students
 * [Praveen Chandrahas](), PhD
