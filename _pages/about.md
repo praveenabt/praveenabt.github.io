@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.in/) at [IIT-Hyderabad](https://iith.ac.in/). I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at [Princeton University](https://www.princeton.edu/), USA, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/).
+I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.in/) at [IIT-Hyderabad](https://iith.ac.in/). 
 
-I work at the intersection of **Systems, Networks, and Security**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking (SDN) and P4-based programmable data planes.
+<!-- I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at [Princeton University](https://www.princeton.edu/), USA, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/). -->
+
+I work at the intersection of **Systems, Networks, and Security**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking and Programmable Data Planes (P4, eBPF, smartNICs, PISA switch)
 
 I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. If you are interested, please apply by filling [this](https://forms.gle/Cq2EBi48TTe27yKWA) form. We will screen the applications and get back to you.
 
@@ -20,13 +22,17 @@ Contact email id: praveent at cse dot iith dot ac dot in
 <div style="width: 1200px;">
 <ul>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">A Case for Cross-Domain Observability to Debug Performance Issues in Microservices</span><br/> Ranjitha K, <strong>Praveen Tammana</strong>, Pravein Govindan Kannan, Priyanka Naik<br /><a href="https://conferences.computer.org/cloud/2022/"> IEEE CLOUD </a>, Barcelona, Spain, July 2022 [<a title="PerfMON" href="publications/perfMON.pdf">pdf</a>] [talk]  </li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Scaling IoT MUD Enforcement using Programmable Data Planes</span><br/> Harish, Suvrima, Hemanth, Praveen, Achmad, Kotaro, Selva, Venkanna, Chong <br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="IoTMud Scale" href="publications/MUD-scale.pdf">pdf</a>]</li>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">IoT MUD Enforcement in the Edge Cloud Using Programmable Switch</span><br />Harish S A, Hemanth Kothapalli, Shubham Lahoti, Kotaro Kataoka, <strong>Praveen Tammana</strong><br/> <a href="https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html"> ACM SIGCOMM FFSPIN </a>, Amsterdam, Aug 2022 [<a title="IoTMUD" href="publications/IoTMUD-FFSPIN.pdf">pdf</a>] [talk] </li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Accelerating PUF-based Authentication Protocols Using Programmable Switch</span><br/> Divya, Ranjitha, Krishna Sai, Praveen, Antony, Tejasvi<br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="PUFAuth" href="publications/PUF-Auth.pdf">pdf</a>]</li>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">Implementing ChaCha Based Crypto Primitives on Programmable SmartNICs</span><br />Shaguftha Zuveria Kottur, Krishna Kadiyala, <strong>Praveen Tammana</strong>, and Rinku Shah<br/> <a href="https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html"> ACM SIGCOMM FFSPIN </a>, Amsterdam, Aug 2022 [<a title="Crypto" href="publications/Crypto-FFSPIN.pdf">pdf</a>] [talk] </li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">A Case for Cross-Domain Observability to Debug Performance Issues in Microservices</span><br/> Ranjitha K, <strong>Praveen Tammana</strong>, Pravein Govindan Kannan, Priyanka Naik<br /><a href="https://conferences.computer.org/cloud/2022/"> IEEE CLOUD </a>, Barcelona, Spain, July 2022 [<a title="PerfMON" href="publications/perfMON.pdf">pdf</a>]</li>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">Packet Processing Algorithm Identification using Program Embeddings</span><br />S. VenkataKeerthy, Yashas Andaluri, Sayan Dey,  Rinku Shah, <strong>Praveen Tammana</strong>, and Ramakrishna Upadrasta<br/> <a href="https://conferences.sigcomm.org/events/apnet2022/cfp.html"> APNet'22 </a>, Fuzhou, China, Aug 2022 [<a title="PPA" href="https://conferences.sigcomm.org/events/apnet2022/papers/Packet%20Processing%20Algorithm%20Identification%20using%20Program%20Embeddings1.pdf">pdf</a>] [talk] </li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">IoT MUD Enforcement in the Edge Cloud Using Programmable Switch</span><br />Harish S A, Hemanth Kothapalli, Shubham Lahoti, Kotaro Kataoka, <strong>Praveen Tammana</strong><br/> <a href="https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html"> ACM SIGCOMM FFSPIN </a>, Amsterdam, Aug 2022 [<a title="IoTMUD" href="publications/IoTMUD-FFSPIN.pdf">pdf</a>] </li>
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Implementing ChaCha Based Crypto Primitives on Programmable SmartNICs</span><br />Shaguftha Zuveria Kottur, Krishna Kadiyala, <strong>Praveen Tammana</strong>, and Rinku Shah<br/> <a href="https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html"> ACM SIGCOMM FFSPIN </a>, Amsterdam, Aug 2022 [<a title="Crypto" href="publications/Crypto-FFSPIN.pdf">pdf</a>] </li>
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Packet Processing Algorithm Identification using Program Embeddings</span><br />S. VenkataKeerthy, Yashas Andaluri, Sayan Dey,  Rinku Shah, <strong>Praveen Tammana</strong>, and Ramakrishna Upadrasta<br/> <a href="https://conferences.sigcomm.org/events/apnet2022/cfp.html"> APNet'22 </a>, Fuzhou, China, Aug 2022 [<a title="PPA" href="https://conferences.sigcomm.org/events/apnet2022/papers/Packet%20Processing%20Algorithm%20Identification%20using%20Program%20Embeddings1.pdf">pdf</a>] </li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Closed-loop Network Performance Monitoring and Diagnosis with SpiderMon</span><br />Weitao Wang, Xinyu Wu, <strong>Praveen Tammana</strong>, Ang Chen, T.S. Eugene Ng<br /> <a href="https://www.usenix.org/conference/nsdi22/technical-sessions"> USENIX NSDI </a>, Mar 2022 [<a title="SpiderMon" href="https://www.usenix.org/conference/nsdi22/presentation/wang">pdf</a>] [<a href="https://www.youtube.com/watch?v=Jwp7x2ixfFs">talk</a>] </li> 
 
@@ -39,6 +45,7 @@ Contact email id: praveent at cse dot iith dot ac dot in
 
 
 ## Technical Program Committee
+* 2023: [APNet](https://conferences.sigcomm.org/events/apnet2023/)
 * 2022: [IEEE ICNP](https://icnp22.cs.ucr.edu/), [APNet](https://conferences.sigcomm.org/events/apnet2022/index.html)
 * 2021: [ACM/IEEE ANCS](https://ancsconf.org/)
 
@@ -47,21 +54,27 @@ Contact email id: praveent at cse dot iith dot ac dot in
 * 2021: [IEEE ANTS Tutorials](https://ants2021.ieee-comsoc-ants.org/authors/tutorials/)
 
 ## Current students
-* [Praveen Chandrahas](), PhD
-* [Ranjitha](https://www.linkedin.com/in/ranjitha-k-9b802823/), PhD
+* [Ranjitha](https://www.linkedin.com/in/ranjitha-k-9b802823/), PhD, PMRF
+* [Harish](https://www.linkedin.com/in/harishsa85/), PhD, PMRF
 * [Shiv Kumar](https://www.linkedin.com/in/shivkumar301), PhD
-* [Harish](https://www.linkedin.com/in/harishsa85/), PhD
+* [Prashanth](), PhD, TiHAN
+* [Praveen Chandrahas](), PhD
 * [Sanyan Dey](https://www.linkedin.com/in/sayandey19), Mtech (RA), jointly with Dr. Ramakrishna
 * [Divya](https://www.linkedin.com/in/divyapathak24/), MTech (RA)
 * [Sankalp](https://github.com/sankalpmittal1911-BitSian), MTech (RA)
+* [Ankith](), MTech (RA)
+* [Animesh](), MTech (RA)
+* [Yuvraj](), MTech (RA)
 * [Prem Kumar](), MTech (TA)
+* [Mahanth](), MTech (TA)
+* [Medha](), MTech (TA)
 
 ## Alumini
 * [Dhiraj Saharia](https://www.linkedin.com/in/dhiraj-saharia/), Research Associate --> PhD, Georgetown, Washington DC, USA
 * [Ramya](https://www.linkedin.com/in/ramya-b-y-2b3721182), MTech (TA) --> Apple, India
 * [Shubham Lahoti](https://www.linkedin.com/in/shubham-l-a0b1b9105/), MTech (TA) --> Oracle, India
 
-[Full list here](/students)
+<!-- [Full list here](/students) -->
 
 <!-- "**Note:** I am actively looking for self-motivated undergrad and grad students to work with me. If you are interested, please email me for a chat. Some guidelines to work with me:
 
