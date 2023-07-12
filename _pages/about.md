@@ -22,13 +22,15 @@ Contact email id: praveent at cse dot iith dot ac dot in
 <div style="width: 1200px;">
 <ul>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">Scaling IoT MUD Enforcement using Programmable Data Planes</span><br/> Harish, Suvrima, Hemanth, Praveen, Achmad, Kotaro, Selva, Venkanna, Chong <br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="IoTMud Scale" href="publications/MUD-Scale.pdf">pdf</a>]</li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">In-Network Probabilistic Monitoring Primitives under the Influence of Adversarial Network Inputs </span><br/> Harish, Shiv, Anibrata, Amogh, Praveen Tammana, Pravien Govindan Kannan, Rinku Shah <br /><a href="https://conferences.sigcomm.org/events/apnet2023/"> APNet'23 </a>, Hong Kong, June 2023 [<a title="AdvInputs" href="publications/Adv.Inputs.PDPs.pdf">pdf</a>][<a title="slides" href="publications/APNet'23.Adv.Inputs.PDP.algos.talk.pdf">slides</a>]</li>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">Accelerating PUF-based Authentication Protocols Using Programmable Switch</span><br/> Divya, Ranjitha, Krishna Sai, Praveen, Antony, Tejasvi<br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="PUFAuth" href="publications/PUF-Auth.pdf">pdf</a>]</li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Scaling IoT MUD Enforcement using Programmable Data Planes</span><br/> Harish, Suvrima, Hemanth, Praveen, Achmad, Kotaro, Selva, Venkanna, Chong <br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="IoTMud Scale" href="publications/MUD-Scale.pdf">pdf</a>][<a title="IoTMud Scale talk" href="publications/NOMS'23.P4.IoT-MUD-Scale.talk.pdf">slides</a>]</li>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">A Case for Cross-Domain Observability to Debug Performance Issues in Microservices</span><br/> Ranjitha K, <strong>Praveen Tammana</strong>, Pravein Govindan Kannan, Priyanka Naik<br /><a href="https://conferences.computer.org/cloud/2022/"> IEEE CLOUD </a>, Barcelona, Spain, July 2022 [<a title="PerfMON" href="publications/perfMON.pdf">pdf</a>]</li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Accelerating PUF-based Authentication Protocols Using Programmable Switch</span><br/> Divya, Ranjitha, Krishna Sai, Praveen, Antony, Tejasvi<br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="PUFAuth" href="publications/PUF-Auth.pdf">pdf</a>] [<a title="slides" href="publications/NOMS.PUFAuth.talk.pdf">slides</a>] </li>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">IoT MUD Enforcement in the Edge Cloud Using Programmable Switch</span><br />Harish S A, Hemanth Kothapalli, Shubham Lahoti, Kotaro Kataoka, <strong>Praveen Tammana</strong><br/> <a href="https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html"> ACM SIGCOMM FFSPIN </a>, Amsterdam, Aug 2022 [<a title="IoTMUD" href="publications/IoTMUD-FFSPIN.pdf">pdf</a>] </li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">A Case for Cross-Domain Observability to Debug Performance Issues in Microservices</span><br/> Ranjitha K, <strong>Praveen Tammana</strong>, Pravein Govindan Kannan, Priyanka Naik<br /><a href="https://conferences.computer.org/cloud/2022/"> IEEE CLOUD </a>, Barcelona, Spain, July 2022 [<a title="PerfMON" href="publications/perfMON.pdf">pdf</a>] [<a title="slides" href="publications/perfmon-cloud22-slides.pdf">slides</a>]</li>
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">IoT MUD Enforcement in the Edge Cloud Using Programmable Switch</span><br />Harish S A, Hemanth Kothapalli, Shubham Lahoti, Kotaro Kataoka, <strong>Praveen Tammana</strong><br/> <a href="https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html"> ACM SIGCOMM FFSPIN </a>, Amsterdam, Aug 2022 [<a title="IoTMUD" href="publications/IoTMUD-FFSPIN.pdf">pdf</a>] [<a title="slides" href="publications/IoT-MUD-FFSPIN-slides22.pdf">slides</a>] </li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Implementing ChaCha Based Crypto Primitives on Programmable SmartNICs</span><br />Shaguftha Zuveria Kottur, Krishna Kadiyala, <strong>Praveen Tammana</strong>, and Rinku Shah<br/> <a href="https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html"> ACM SIGCOMM FFSPIN </a>, Amsterdam, Aug 2022 [<a title="Crypto" href="publications/Crypto-FFSPIN.pdf">pdf</a>] </li>
 
@@ -45,7 +47,7 @@ Contact email id: praveent at cse dot iith dot ac dot in
 
 
 ## Technical Program Committee
-* 2023: [APNet](https://conferences.sigcomm.org/events/apnet2023/)
+* 2023: [APNet](https://conferences.sigcomm.org/events/apnet2023/), [IEEE ICNP](https://icnp23.cs.ucr.edu/)
 * 2022: [IEEE ICNP](https://icnp22.cs.ucr.edu/), [APNet](https://conferences.sigcomm.org/events/apnet2022/index.html)
 * 2021: [ACM/IEEE ANCS](https://ancsconf.org/)
 
@@ -60,17 +62,17 @@ Contact email id: praveent at cse dot iith dot ac dot in
 * [Prashanth](), PhD, TiHAN
 * [Praveen Chandrahas](), PhD
 * [Sanyan Dey](https://www.linkedin.com/in/sayandey19), Mtech (RA), jointly with Dr. Ramakrishna
-* [Divya](https://www.linkedin.com/in/divyapathak24/), MTech (RA)
+* [Divya](https://www.linkedin.com/in/divyapathak24/), MTech (RA), IBM IRL Intern
 * [Sankalp](https://github.com/sankalpmittal1911-BitSian), MTech (RA)
 * [Ankith](), MTech (RA)
 * [Animesh](), MTech (RA)
 * [Yuvraj](), MTech (RA)
-* [Prem Kumar](), MTech (TA)
 * [Mahanth](), MTech (TA)
 * [Medha](), MTech (TA)
 
 ## Alumini
 * [Dhiraj Saharia](https://www.linkedin.com/in/dhiraj-saharia/), Research Associate --> PhD, Georgetown, Washington DC, USA
+* [Prem Kumar](https://in.linkedin.com/in/prem-kumar-84316b6b), MTech (TA)
 * [Ramya](https://www.linkedin.com/in/ramya-b-y-2b3721182), MTech (TA) --> Apple, India
 * [Shubham Lahoti](https://www.linkedin.com/in/shubham-l-a0b1b9105/), MTech (TA) --> Oracle, India
 
