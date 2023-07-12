@@ -47,7 +47,7 @@ Contact email id: praveent at cse dot iith dot ac dot in
 
 
 ## Technical Program Committee
-* 2023: [APNet](https://conferences.sigcomm.org/events/apnet2023/), [IEEE ICNP](https://icnp23.cs.ucr.edu/)
+* 2023: [APNet](https://conferences.sigcomm.org/events/apnet2023/), [IEEE ICNP](https://icnp23.cs.ucr.edu/), [ACM CoNEXT Posters](https://conferences.sigcomm.org/co-next/2023/#!/posters)
 * 2022: [IEEE ICNP](https://icnp22.cs.ucr.edu/), [APNet](https://conferences.sigcomm.org/events/apnet2022/index.html)
 * 2021: [ACM/IEEE ANCS](https://ancsconf.org/)
 
@@ -58,14 +58,14 @@ Contact email id: praveent at cse dot iith dot ac dot in
 ## Current students
 * [Ranjitha](https://www.linkedin.com/in/ranjitha-k-9b802823/), PhD, PMRF
 * [Harish](https://www.linkedin.com/in/harishsa85/), PhD, PMRF
-* [Shiv Kumar](https://www.linkedin.com/in/shivkumar301), PhD
+* [Shiv Kumar](https://www.linkedin.com/in/shivkumar301), PhD, jointly with Dr. Ramakrishna
 * [Prashanth](), PhD, TiHAN
 * [Praveen Chandrahas](), PhD
 * [Sanyan Dey](https://www.linkedin.com/in/sayandey19), Mtech (RA), jointly with Dr. Ramakrishna
 * [Divya](https://www.linkedin.com/in/divyapathak24/), MTech (RA), IBM IRL Intern
 * [Sankalp](https://github.com/sankalpmittal1911-BitSian), MTech (RA)
 * [Ankith](), MTech (RA)
-* [Animesh](), MTech (RA)
+* [Animesh](), MTech (RA), jointly with Dr. Ramakrishna
 * [Yuvraj](), MTech (RA)
 * [Mahanth](), MTech (TA)
 * [Medha](), MTech (TA)
