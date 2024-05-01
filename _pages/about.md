@@ -12,7 +12,7 @@ I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.
 
 <!-- I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at [Princeton University](https://www.princeton.edu/), USA, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/). -->
 
-I work at the intersection of **Systems, Networks, and Security**. My current focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking and Programmable Data Planes (P4, eBPF, smartNICs, PISA switch)
+I lead [NetX lab](https://www.netxiith.in/). My group works at the intersection of **Systems, Networks, and Security**. Our focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking and Programmable Data Planes (P4, eBPF, smartNICs, PISA switch)
 
 I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. If you are interested, please apply by filling [this](https://forms.gle/Cq2EBi48TTe27yKWA) form. We will screen the applications and get back to you.
 
