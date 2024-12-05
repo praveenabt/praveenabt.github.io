@@ -8,9 +8,18 @@ author_profile: true
 <div style="width: 1200px;">
 <ul>
 
+<li style="margin-bottom: 10px;"><span style="color: #008080;">iGuard: Efficient Isolation Forest Design for Malicious Traffic
+Detection in Programmable Switches </span><br/> Sankalp Mittal, HariKrishnan, Patel Heetkumar, Praveen Tammana <br /><a href="https://conferences.sigcomm.org/co-next/2024"> ACM CoNEXT'24 </a>,UCLA, Dec 2024 [<a title="iGuard" href="iGuard-CR.pdf">pdf</a>]</li>
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">DL3: Adaptive Load Balancing for Latency-critical Edge Cloud Applications </span><br/> Prashanth, Ranjitha, Ankit, Arjun, Rinku Shah, Praveen Tammana <br /><a href="https://cnsm-conf.org/2024/"> IEEE CNSM'24 </a>,Prague, Oct 2024 [<a title="dl3" href="dl3.pdf">pdf</a>]</li>
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Anamoly Detection in In-Network Fast ReRoute Systems </span><br/> Divya Pathak, Harish SA, Prathyush, Dilip, Praveen Tammana <br /><a href="https://networking.ifip.org/2024/index.php"> IFIP/Networking'24 </a>,Greece, June 2024 [<a title="p4anamoly" href="frrsec.pdf">pdf</a>]</li>
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">AdaFlow: Efficient In-Network Traffic Classification using Programmable Switches </span><br/> Sankalp Mittal, Kotha Harshith, Anand, Praveen Tammana <br /><a href="https://networking.ifip.org/2024/index.php"> IFIP/Networking'24 </a>,Greece, June 2024 [<a title="p4security" href="AdaFlow.pdf">pdf</a>]</li>
+
 <li style="margin-bottom: 10px;"><span style="color: #008080;">In-Network Probabilistic Monitoring Primitives under the Influence of Adversarial Network Inputs </span><br/> Harish, Shiv, Anibrata, Amogh, Praveen Tammana, Pravien Govindan Kannan, Rinku Shah <br /><a href="https://conferences.sigcomm.org/events/apnet2023/"> APNet </a>, Hong Kong, June 2023 [<a title="AdvInputs" href="Adv.Inputs.PDPs.pdf">pdf</a>][<a title="slides" href="APNet'23.Adv.Inputs.PDP.algos.talk.pdf">slides</a>]</li>
 
-<li style="margin-bottom: 10px;"><span style="color: #008080;">Scaling IoT MUD Enforcement using Programmable Data Planes</span><br/> Harish, Suvrima, Hemanth, Praveen, Achmad, Kotaro, Selva, Venkanna, Chong <br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="IoTMud Scale" href="MUD-Scale.pdf">pdf</a>] [<a title="IoTMud Scale talk" href="NOMS'23.P4.IoT-MUD-Scale.talk.pdf">slides</a>] [talk] </li>
+<li style="margin-bottom: 10px;"><span style="color: #008080;">Scaling IoT MUD Enforcement using Programmable Data Planes</span><br/> Harish, Suvrima, Hemanth, Praveen, Achmad, Kotaro, Selva, Venkanna, Chong <br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="IoTMud Scale" href="MUD-Scale.pdf">pdf</a>] [<a title="IoTMud Scale talk" href="NOMS'23.P4.IoT-MUD-Scale.talk.pdf">slides</a>] </li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Accelerating PUF-based Authentication Protocols Using Programmable Switch</span><br/> Divya, Ranjitha, Krishna Sai, Praveen, Antony, Tejasvi<br /><a href="https://noms2023.ieee-noms.org/"> IEEE/IFIP NOMS </a>, Miami, FL, May 2023 [<a title="PUFAuth" href="PUF-Auth.pdf">pdf</a>] [<a title="slides" href="NOMS.PUFAuth.talk.pdf">slides</a>] [talk] </li>
 
