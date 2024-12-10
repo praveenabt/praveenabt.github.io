@@ -18,6 +18,9 @@ I am actively looking for full time candidates to work on some exciting research
 
 Contact email id: praveent at cse dot iith dot ac dot in  
 
+Please join [MLNetSec: Advancing Networking & Security in the AI/ML Era](mlnetsec.cse.iith.ac.in) workshop, co-located with ICDCN on Jan 7, 2025
+
+
 ## Publications
 <div style="width: 1200px;">
 <ul>
