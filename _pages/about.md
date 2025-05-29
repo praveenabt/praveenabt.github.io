@@ -12,13 +12,27 @@ I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.
 
 <!-- I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at [Princeton University](https://www.princeton.edu/), USA, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/). -->
 
-I lead [NetX lab](https://www.netxiith.in/). My group works at the intersection of **Systems, Networks, and Security**. Our focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking and Programmable Data Planes (P4, eBPF, smartNICs, PISA switch)
+I lead [NetX lab](https://www.netxiith.in/). 
 
-I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. If you are interested, please apply by filling [this](https://forms.gle/Cq2EBi48TTe27yKWA) form. We will screen the applications and get back to you.
+* Research Domain: **Systems, Networks, and Security** 
 
-Contact email id: praveent at cse dot iith dot ac dot in  
+* We design and build systems for AI infrastructure. 
 
-Please join [MLNetSec: Advancing Networking & Security in the AI/ML Era](https://mlnetsec.cse.iith.ac.in) workshop, co-located with ICDCN on Jan 7, 2025
+* Key terms: Distributed AI Learning and Serving, Networked Robotics, GPU-centric Packet Processing, Software-Defined Networking, Programmable Data Planes (P4, eBPF, DPUs, PISA switch).
+
+* I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. If you are interested, please apply by filling [this](https://forms.gle/Cq2EBi48TTe27yKWA) form. We will screen the applications and get back to you.
+
+* Contact email id: praveent at cse dot iith dot ac dot in  
+
+## Recent News:
+* P4Auth accepted to [DSN'25](https://dsn2025.github.io/)
+* Funding from Mondee on Systems for AI workloads
+* Funding from Marvell Technology on Data Acceleration Offload
+* iGuard accepted to CoNEXT'24
+* Funding from ZF, India on Efficient Load-balancer for Edge offload Applications
+
+
+<!-- Please join [MLNetSec: Advancing Networking & Security in the AI/ML Era](https://mlnetsec.cse.iith.ac.in) workshop, co-located with ICDCN on Jan 7, 2025 -->
 
 
 ## Publications
@@ -61,14 +75,17 @@ Detection in Programmable Switches </span><br/> Sankalp Mittal, HariKrishnan, Pa
 
 
 ## Technical Program Committee
+* 2024: [APNet](https://conferences.sigcomm.org/events/apnet2024/), [IEEE COMSNETS](https://www.comsnets.org/)
 * 2023: [APNet](https://conferences.sigcomm.org/events/apnet2023/), [IEEE ICNP](https://icnp23.cs.ucr.edu/), [ACM CoNEXT Posters](https://conferences.sigcomm.org/co-next/2023/#!/posters)
 * 2022: [IEEE ICNP](https://icnp22.cs.ucr.edu/), [APNet](https://conferences.sigcomm.org/events/apnet2022/index.html)
 * 2021: [ACM/IEEE ANCS](https://ancsconf.org/)
 
 ## Organizing Committee
+* 2024: [MLNetSec](https://mlnetsec.cse.iith.ac.in/), [ICDCN](https://cse.iith.ac.in/icdcn-2025/index.html)
 * 2022: [ACM SIGMETRICS PerfNA Workshop](https://perfna2022.cse.iith.ac.in/)
 * 2021: [IEEE ANTS Tutorials](https://ants2021.ieee-comsoc-ants.org/authors/tutorials/)
 
+<!--
 ## Current students
 * [Ranjitha](https://www.linkedin.com/in/ranjitha-k-9b802823/), PhD, PMRF
 * [Harish](https://www.linkedin.com/in/harishsa85/), PhD, PMRF
@@ -84,11 +101,14 @@ Detection in Programmable Switches </span><br/> Sankalp Mittal, HariKrishnan, Pa
 * [Mahanth](), MTech (TA)
 * [Medha](), MTech (TA)
 
+
 ## Alumini
-* [Dhiraj Saharia](https://www.linkedin.com/in/dhiraj-saharia/), Research Associate --> PhD, Georgetown, Washington DC, USA
+* [Dhiraj Saharia](https://www.linkedin.com/in/dhiraj-saharia/), Research Associate > PhD, Georgetown, Washington DC, USA
 * [Prem Kumar](https://in.linkedin.com/in/prem-kumar-84316b6b), MTech (TA)
-* [Ramya](https://www.linkedin.com/in/ramya-b-y-2b3721182), MTech (TA) --> Apple, India
-* [Shubham Lahoti](https://www.linkedin.com/in/shubham-l-a0b1b9105/), MTech (TA) --> Oracle, India
+* [Ramya](https://www.linkedin.com/in/ramya-b-y-2b3721182), MTech (TA) > Apple, India
+* [Shubham Lahoti](https://www.linkedin.com/in/shubham-l-a0b1b9105/), MTech (TA) > Oracle, India
+-->
+
 
 <!-- [Full list here](/students) -->
 
