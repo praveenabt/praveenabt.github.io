@@ -12,19 +12,20 @@ I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.
 
 <!-- I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at [Princeton University](https://www.princeton.edu/), USA, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/). -->
 
-I lead [NetX lab](https://www.netxiith.in/). 
-
-* Research Domain: **Systems, Networks, and Security** 
-
+I lead [NetX lab](https://www.netxiith.in/).
+* Research Domain: **AI, Systems, Networks, and Security** 
 * We design and build systems for AI infrastructure. 
-
 * Key terms: Distributed AI Learning and Serving, Networked Robotics, GPU-centric Packet Processing, Software-Defined Networking, Programmable Data Planes (P4, eBPF, DPUs, PISA switch).
 
-* I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. If you are interested, please apply by filling [this](https://forms.gle/Cq2EBi48TTe27yKWA) form. We will screen the applications and get back to you.
+## Jobs:
+* For research positions: [Apply here](https://forms.gle/Cq2EBi48TTe27yKWA)
+* For industry positions in AI domain: [Full time](https://docs.google.com/forms/d/e/1FAIpQLSd_0E6nYP7CxT-YJ7Kpwcoz1tpwwPS33HzFhIXcjSwc9Am0XA/viewform?usp=sharing&ouid=115715696762350619732), [Internship](https://docs.google.com/forms/d/e/1FAIpQLSfovG9mXu5cUoiN7gVYpKzc9KCIGS3ZL2oQqMis1lz18eQFaw/viewform?usp=sharing&ouid=115715696762350619732)
 
-* Contact email id: praveent at cse dot iith dot ac dot in  
+<!-- I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. If you are interested, please apply by filling [this](https://forms.gle/Cq2EBi48TTe27yKWA) form. We will screen the applications and get back to you. -->
+
 
 ## Recent News:
+* PerfMon accepted to [SOCC'25](https://acmsocc.org/2025/papers.html)
 * P4Auth accepted to [DSN'25](https://dsn2025.github.io/)
 * Funding from Mondee on Systems for AI workloads
 * Funding from Marvell Technology on Data Acceleration Offload
