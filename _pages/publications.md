@@ -8,6 +8,8 @@ author_profile: true
 <div style="width: 1200px;">
 <ul>
 
+<li style="margin-bottom: 10px;"><span style="color: #008080;">PerfMon: Performance Monitoring of Host Network Stack </span><br/> Ranjitha, Ankit, Sailo, Arun, Amrit, Praveen T, Pravein G, Priyanka <br /><a href="https://acmsocc.org/2025/"> ACM/SOCC'25 </a> [<a title="PerfMon" href="PerfMon-SoCC.pdf">pdf</a>]</li>
+
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Securing In-Network Traffic Control Systems with P4Auth </span><br/> Ranjitha, Medha, Stavan, Havya, Hari, Dheekshitha, Rinku, Praveen <br /><a href="https://dsn2025.github.io/"> IEEE/IFIP DSN'25 </a>,UCLA, Dec 2024 [<a title="DSN" href="P4Auth-DSN.pdf">pdf</a>]</li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">iGuard: Efficient Isolation Forest Design for Malicious Traffic

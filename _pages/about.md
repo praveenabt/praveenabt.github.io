@@ -25,6 +25,7 @@ I lead [NetX lab](https://www.netxiith.in/).
 
 
 ## Recent News:
+* FlexMesh accepted to [CoNEXT'26](https://conferences.sigcomm.org/co-next/2026/)
 * PerfMon accepted to [SOCC'25](https://acmsocc.org/2025/papers.html)
 * P4Auth accepted to [DSN'25](https://dsn2025.github.io/)
 * Funding from Mondee on Systems for AI workloads
@@ -39,6 +40,8 @@ I lead [NetX lab](https://www.netxiith.in/).
 ## Publications
 <div style="width: 1200px;">
 <ul>
+
+<li style="margin-bottom: 10px;"><span style="color: #008080;">PerfMon: Performance Monitoring of Host Network Stack </span><br/> Ranjitha, Ankit, Sailo, Arun, Amrit, Praveen T, Pravein G, Priyanka <br /><a href="https://acmsocc.org/2025/"> ACM/SOCC'25 </a> [<a title="PerfMon" href="publications/PerfMon-SoCC.pdf">pdf</a>]</li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Securing In-Network Traffic Control Systems with P4Auth </span><br/> Ranjitha, Medha, Stavan, Havya, Hari, Dheekshitha, Rinku, Praveen <br /><a href="https://dsn2025.github.io/"> IEEE/IFIP DSN'25 </a> [<a title="DSN" href="publications/P4Auth-DSN.pdf">pdf</a>]</li>
 
