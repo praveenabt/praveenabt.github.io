@@ -25,12 +25,13 @@ I lead [NetX lab](https://www.netxiith.in/).
 
 
 ## Recent News:
-* FlexMesh accepted to [CoNEXT'26](https://conferences.sigcomm.org/co-next/2026/)
-* PerfMon accepted to [SOCC'25](https://acmsocc.org/2025/papers.html)
-* P4Auth accepted to [DSN'25](https://dsn2025.github.io/)
+* BEACON accepted to [NAIC'26, ACM SIGCOMM Workshop](https://conferences.sigcomm.org/sigcomm/2026/naic/)
+* FlexMesh accepted to [ACM CoNEXT'26](https://conferences.sigcomm.org/co-next/2026/)
+* PerfMon accepted to [ACM SOCC'25](https://acmsocc.org/2025/papers.html)
+* P4Auth accepted to [IFIP DSN'25](https://dsn2025.github.io/)
 * Funding from Mondee on Systems for AI workloads
 * Funding from Marvell Technology on Data Acceleration Offload
-* iGuard accepted to [CoNEXT'24](https://conferences.sigcomm.org/co-next/2024)
+* iGuard accepted to [ACM CoNEXT'24](https://conferences.sigcomm.org/co-next/2024)
 * Funding from ZF, India on Efficient Load-balancer for Edge offload Applications
 
 
@@ -81,12 +82,14 @@ Detection in Programmable Switches </span><br/> Sankalp Mittal, HariKrishnan, Pa
 
 
 ## Technical Program Committee
+* 2026: [ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2026/), [NCC](https://ee.iith.ac.in/NCC2026/)
 * 2024: [APNet](https://conferences.sigcomm.org/events/apnet2024/), [IEEE COMSNETS](https://www.comsnets.org/)
 * 2023: [APNet](https://conferences.sigcomm.org/events/apnet2023/), [IEEE ICNP](https://icnp23.cs.ucr.edu/), [ACM CoNEXT Posters](https://conferences.sigcomm.org/co-next/2023/#!/posters)
 * 2022: [IEEE ICNP](https://icnp22.cs.ucr.edu/), [APNet](https://conferences.sigcomm.org/events/apnet2022/index.html)
 * 2021: [ACM/IEEE ANCS](https://ancsconf.org/)
 
 ## Organizing Committee
+* 2026: [MemNetAI: Memory-Semantic Networking for AI-Scale Systems](https://conferences.sigcomm.org/sigcomm/2026/memnetai/)
 * 2024: [MLNetSec](https://mlnetsec.cse.iith.ac.in/), [ICDCN](https://cse.iith.ac.in/icdcn-2025/index.html)
 * 2022: [ACM SIGMETRICS PerfNA Workshop](https://perfna2022.cse.iith.ac.in/)
 * 2021: [IEEE ANTS Tutorials](https://ants2021.ieee-comsoc-ants.org/authors/tutorials/)
